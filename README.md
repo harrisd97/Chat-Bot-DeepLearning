@@ -15,7 +15,7 @@ AI-powered chatbot using **Deep Learning** and **NLP** to understand and respond
 
 ### **🔹 Open in Google Colab**  
 If you don't want to install anything, you can open the notebook in **Google Colab**:  
-📌 **[Open Chatbot Notebook](https://colab.research.google.com/github/yourusername/Chat-Bot-DeepLearning/blob/main/simple-chatbot.ipynb)**  
+📌 **[Open Chatbot Notebook](https://colab.research.google.com/github/harrisd97/Chat-Bot-DeepLearning/blob/main/simple-chatbot.ipynb)**  
 
 ### **🔹 Setup Environment (For Local Execution)**  
 ```bash
